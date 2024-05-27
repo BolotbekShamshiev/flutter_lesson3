@@ -150,11 +150,11 @@ class Homework1 extends StatelessWidget {
                   ),
                 ),
                 Container(
-                  height: 30,
+                  height: 50,
                 ),
                 Container(
                   height: 70,
-                  width: 340,
+                  width: 350,
                   alignment: Alignment.center,
                   decoration: BoxDecoration(
                     borderRadius: BorderRadius.circular(10),
